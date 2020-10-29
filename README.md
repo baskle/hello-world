@@ -1,5 +1,5 @@
 # Hello-World
-One Repository for what?
+A Repository for what?
 
 Hello, 
-I am a Designer and learn how to Code. I start with JavaScript and the Library P5js.
+I am a Designer and learn how to Code. I started with JavaScript and the Library P5js.
